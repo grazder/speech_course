@@ -1,3 +1,15 @@
+# Homeworks
+
+✅ Seminar 1: Spectrograms and and the Griffin-Lim Algorithm ([original](https://github.com/yandexdataschool/speech_course/blob/main/week_02/seminar1_student.ipynb), [solved](https://github.com/grazder/speech_course/blob/main/week_02/seminar1_student.ipynb)) 
+
+✅ Homework 1: Audio Digital Classification ([original](https://github.com/yandexdataschool/speech_course/blob/main/week_02/homework1_student.ipynb), [solved](https://github.com/grazder/speech_course/blob/main/week_02/seminar1_student.ipynb))
+
+✅ Seminar 2: Levenstein distance and Word Error Rate ([original](https://github.com/yandexdataschool/speech_course/blob/main/seminar2_student.ipynb), [solved](https://github.com/grazder/speech_course/blob/main/seminar2_student.ipynb))
+
+✅ Seminar 3 and Homework 2: CTC Decoding and ASR ([original](https://github.com/yandexdataschool/speech_course/blob/main/week_05/homework2_student.ipynb), [solved](https://github.com/grazder/speech_course/blob/main/week_05/homework2_student.ipynb), [wandb](https://wandb.ai/grazder/speech-hw2))
+
+✅ Seminar 4 and Homework 3: RNN-T ([original](https://github.com/yandexdataschool/speech_course/blob/main/week_06/homework3_seminar4_student.ipynb), [solved](https://github.com/grazder/speech_course/blob/main/week_06/homework3_seminar4_student.ipynb), [wandb](https://wandb.ai/grazder/speech-transducer))
+
 # YSDA Speech Processing Course
 
 - Materials for each week are in ./week* folders
